@@ -1,0 +1,745 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>LOL说</title>
+
+<link rel="stylesheet" type="text/css" 
+media="screen and (min-device-width:500px)" href="another.css" />
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<link rel="stylesheet" type="text/css" 
+media="screen and (min-device-width:0) and (max-device-width:500px)" href="other.css" />
+
+</head>
+
+<body>
+    <div class="container">
+    
+    
+        <div class="head">
+            <div class="logo">
+                <h2><a href="http://feidieshuo.com"><img src="detail.png" />&nbsp英雄说</h2></a>
+            </div>      
+        </div>
+        <div class="neck">
+            <ul>
+                <li>
+                    <a href="http://feidieshuo.com" alt="首页">首页</a>
+                </li>
+                <li>
+                    <a href="#" alt="频道">频道</a>
+                        <div class="submenu">
+                    
+                            <div id="second"><a href="#" alt="奥巴马">奥巴马</a></div>
+                            <div id="second"><a href="#" alt="蛮王">蛮王</a></div>
+                            <div id="second"><a href="#" alt="轮子妈">轮子妈</a></div>
+                            <div id="second"><a href="#" alt="琴女">琴女</a></div>
+                            <div id="second"><a href="#" alt="小炮">小炮</a></div>
+                            <div id="second"><a href="#" alt="莫甘娜">莫甘娜</a></div>
+                            <div id="second"><a href="#" alt="铁男">铁男</a></div>
+                            <div id="second"><a href="#" alt="娜美">娜美</a></div>
+                            <div id="second"><a href="#" alt="凤凰">凤凰</a></div>
+                            <div id="second"><a href="#" alt="EZ">EZ</a></div>
+                            <div id="second"><a href="#" alt="人马">人马</a></div>
+                            <div id="second"><a href="#" alt="拍拍熊">拍拍熊</a></div>
+                            <div id="second"><a href="#" alt="女警">女警</a></div>
+                            <div id="second"><a href="#" alt="豹女">豹女</a></div>
+                            <div id="second"><a href="#" alt="狮子狗">狮子狗</a></div>
+                            <div id="second"><a href="#" alt="不详">不详</a></div>
+                    </div> 
+                </li>
+            </ul> 
+        </div> 
+        <div id="third">
+            <img src="u=267086786,1639530450&fm=21&gp=0.gif"  />
+        </div>
+        <div class="cards">
+            <div id="forth">
+                <h4>
+                    <img src="wonderful_video.png" />&nbsp精彩视频
+                </h4>
+            </div>
+            <div id="fifth">
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo"> 
+                            <img src="u=4221094455,2986263700&fm=21&gp=0.jpg" alt="这是奥巴马" />
+                        </div>
+                        <div id="word">
+                            <h5>这是奥巴马</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                        <img src="u=3209515297,1175277737&fm=21&gp=0.jpg" alt="这是蛮王" />
+                        </div>
+                        <div id="word">
+                        <h5>这是蛮王</h5>
+                        </div>
+                        <div id="words">
+                        <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                        <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>   
+                </div>
+                <div id="card" style="background: #fff">
+                   <a href="http://feidieshuo.com"> 
+                       <div id="photo">
+                           <img src="u=2100378058,2153512209&fm=21&gp=0.jpg" alt="这是轮子妈" />
+                       </div>
+                       <div id="word">
+                            <h5>这是轮子妈</h5>
+                       </div>
+                       <div id="words">
+                           <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                           <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                       </div> 
+                    </a>   
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=976374311,1247035833&fm=11&gp=0.jpg" alt="这是琴女" />
+                        </div>
+                        <div id="word">
+                            <h5>这是琴女</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>  
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                             <img src="u=1025442534,3952371831&fm=21&gp=0.jpg" alt="这是小炮" />
+                        
+                        </div>
+                        <div id="word">
+                            <h5>这是小炮</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>   
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="detail.jpg" alt="这是莫甘娜" />
+                        
+                        </div>
+                        <div id="word">
+                            <h5>这是莫甘娜</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>   
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=3484930774,74908747&fm=21&gp=0.jpg" alt="这是铁男" />
+                        </div>
+                        <div id="word">
+                            <h5>这是铁男</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>   
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=1717534310,3156779281&fm=21&gp=0.jpg" alt="这是娜美" />
+                        </div>
+                        <div id="word">
+                            <h5>这是娜美</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>   
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=2448974116,1788983171&fm=21&gp=0.jpg" alt="这是凤凰" />
+                        </div>
+                        <div id="word">
+                            <h5>这是凤凰</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>       
+                </div>
+                <div id="card" style="background: #fff">
+                     <a href="http://feidieshuo.com">
+                         <div id="photo">
+                            <img src="u=1603203784,3061929408&fm=21&gp=0.jpg" alt="这是EZ" />
+                       
+                        </div>
+                        <div id="word">
+                            <h5>这是EZ<h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>    
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=1859238093,2058031223&fm=11&gp=0.jpg" alt="这是人马" />
+                        </div>
+                        <div id="word">
+                            <h5>这是人马</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>       
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com"> 
+                        <div id="photo">
+                            <img src="u=2876779986,340758598&fm=21&gp=0.jpg" alt="这是拍拍熊" />
+                        </div>
+                        <div id="word">
+                            <h5>这是拍拍熊</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>   
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=2625279391,692406487&fm=21&gp=0.jpg" alt="这是女警" />
+                        
+                        </div>
+                        <div id="word">
+                            <h5>这是女警</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>       
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=3706493049,94659806&fm=21&gp=0.jpg" alt="这是豹女" />
+                        </div>
+                        <div id="word">
+                            <h5>这是豹女</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>    
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com"> 
+                        <div id="photo">
+                            <img src="u=1848153495,2823574603&fm=21&gp=0.jpg" alt="这是狮子狗" />
+                        </div>
+                        <div id="word">
+                            <h5>这是狮子狗</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div> 
+                    </a>       
+                </div>
+                <div id="card" style="background: #fff">
+                    <a href="http://feidieshuo.com">
+                        <div id="photo">
+                            <img src="u=3447840767,4060400393&fm=21&gp=0.jpg" alt="这是不详" />
+                        </div>
+                        <div id="word">
+                            <h5>这是不详</h5>
+                        </div>
+                        <div id="words">
+                            <img src="0{K3FIQWM]]]SJD{LV]1}_J.jpg"/>666&nbsp&nbsp&nbsp
+                            <img src="_VS{6L`~NH0[MZTSG2UE7SG_看图王.png" />666
+                        </div>  
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="top">
+           <a href="#"><img src="up_看图王.png" alt="回到顶部" style="height: 49px;width: 49px" /></a>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+another.css
+@charset "utf-8";
+/* CSS Document */
+* {
+	padding: 0;
+	margin: 0;
+}
+
+
+body {
+	background: #f3f1ed;
+	font-family: Microsoft YaHei;
+}
+
+
+.head {
+	height: 120px;
+	background: #fff;
+}
+
+
+.head img {
+	height: 100px;
+	width: 140px;
+	padding-top: 10px;
+	margin-left: 240px;
+}
+
+
+.logo {
+	float: left;
+}
+
+
+.head .logo a {
+	text-decoration: none;
+	color: #666;
+}
+
+
+h2 {
+	line-height: 140px;
+	height: 110px;
+}
+
+.neck {
+	height: 48px;
+	line-height: 48px;
+	font-family: \5FAE\8F6F\96C5\9ED1;
+	background: #fe6e00;
+}
+
+
+.neck li {
+	height: 48px;
+	width: 144px;
+	margin-left: 210px;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	text-align: center;
+}
+	
+
+.neck li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+.neck li:hover {
+	text-decoration: underline;
+	background: #f50;
+}
+
+
+.neck li:hover .submenu {
+	display: block;
+}
+	
+
+.submenu {
+	width: 320px;
+	height:160px;
+	font-color: #666;
+	background: #aaa;
+	display: none;
+	z-index: 999;
+	position: absolute;
+}
+
+
+ul li {
+	list-style-type: none;
+	float: left;
+}
+
+
+.submenu #second {
+	height: 40px;
+	width: 80px;
+	line-height: 40px;
+	font-size: 16px;
+	text-align: center;
+	float: left;
+}
+
+
+.submenu #second:link {
+	font-color: #f60;
+	text-decoration: none;
+}
+
+
+.submenu #second:hover {
+	text-decoration: underline;
+	background: #fc0;
+}
+
+
+#third {
+	margin-top: 50px;
+	margin-left: 240px;
+}
+
+
+#third img {
+	width: 845px;
+	height: 400px;
+}
+
+
+.cards {
+	width: 1160px;
+	margin-left: 140px;
+}
+
+
+.cards #forth {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+
+h4 {
+	width: 400px;
+	font-color: grey;
+}
+
+
+#card {
+	height: 168px;
+	width: 210px;
+	margin: 30px 20px;
+	float: left;
+	border: solid 2px transparent;
+	border-radius: 3px;
+}
+
+
+#card #words {
+	line-height: 25px;
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+
+#card:hover {
+	border: solid 2px #f00;
+}
+
+
+#photo img {
+	 height: 110px;
+	 width: 210px;
+	 border-radius: 3px;
+}
+
+
+#card a:link {
+	font-color: #000;
+	text-decoration: none;
+}
+
+
+#word h5 {
+	margin-top: 5px;
+	text-align: center;
+}
+
+
+.top {
+	height: 49px; 
+	width: 49px;
+	bottom: 0px;
+	right: 0;
+	position: fixed;
+}
+
+
+#word {
+	color: #000;
+}
+
+
+#words {
+	color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+other.css
+@charset "utf-8";
+/* CSS Document */
+* {
+	padding: 0;
+	margin: 0;
+}
+
+
+body {
+	background: #f3f1ed;
+	font-family: Microsoft YaHei;
+}
+
+
+.head {
+	height: 8em;
+	background: #fff;
+	line-height: 7.5em;
+}
+
+
+.head img {
+	height: 4.5em;
+	width: 36%;
+}
+
+
+.logo {
+	float: left;
+}
+
+
+.head .logo a {
+	text-decoration: none;
+	color: #666;
+}
+
+
+h2 {
+	line-height: 5em;
+	height: 5em;
+}
+
+.neck {
+	height: 3em;
+	line-height: 3em;
+	font-family: \5FAE\8F6F\96C5\9ED1;
+	background: #fe6e00;
+}
+
+
+.neck li {
+	height: 3em;
+	width: 20%;
+	margin-left: 3%;
+	font-size: 1.25em;
+	font-weight: bold;
+	float: left;
+	text-align: center;
+}
+	
+
+.neck li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+.neck li:hover {
+	text-decoration: underline;
+	background: #f50;
+}
+
+
+.neck li:hover .submenu {
+	display: block;
+}
+	
+
+.submenu {
+	width: 40%;
+	height: 10em;
+	font-color: #666;
+	background: #aaa;
+	display: none;
+	z-index: 999;
+}
+
+
+ul li {
+	list-style-type: none;
+	float: left;
+}
+
+
+.submenu #second {
+	height: 2.5em;
+	width: 5em;
+	line-height: 2.5em;
+	font-size: 1em;
+	text-align: center;
+	float: left;
+}
+
+
+.submenu #second:link {
+	font-color: #f60;
+	text-decoration: none;
+}
+
+
+.submenu #second:hover {
+	text-decoration: underline;
+	background: #fc0;
+}
+
+
+#third {
+	margin-top: 3.125em;
+}
+
+
+#third img {
+	width: 80%;
+	height: 15em;
+	margin-left: 10%;
+}
+
+
+.cards {
+	width: 80%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+
+.cards #forth {
+	height: 2.5em;
+	width: 60%;
+	line-height: 2.5em;
+	margin-top: 3.125em;
+	margin-bottom: 0.625em;
+	float: left;
+}
+
+
+h4 {
+	width: 100%;
+	font-color: grey;
+}
+
+
+#card {
+	height: 14em;
+	width: 100%;
+	margin: 1.875em 1.25em;
+	float: left;
+	border: solid 0.125em transparent;
+	border-radius: 0.1875em;
+}
+
+
+#card #words {
+	line-height: 1.5625em;
+	margin-top: 0.3125em;
+	margin-left: 1%;
+}
+
+
+#card:hover {
+	border: solid 0.125em #f00;
+}
+
+
+#photo img {
+	 height: 10em;
+	 width: 100%;
+	 border-radius: 0.1875em;
+}
+
+
+#card a:link {
+	font-color: #000;
+	text-decoration: none;
+}
+
+
+#word h5 {
+	margin-top: 0.3125em;
+	text-align: center;
+}
+
+
+.top {
+	height: 3.0625em; 
+	width: 6%;
+	bottom: 0;
+	right: 0;
+	position: fixed;
+}
+
+
+#word {
+	color: #000;
+}
+
+
+#words {
+	color: #000;
+}
+
